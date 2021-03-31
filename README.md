@@ -1,4 +1,2 @@
 # myrepo
-testing my setup
-testing from rstudio
-
+今天真开心
